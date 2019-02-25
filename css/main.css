@@ -1,0 +1,52 @@
+
+.navbar { background-color: transparent;}
+.bg-dark{ background-color: rgba(0, 0, 0, 0.8)  !important;}
+.navbar-dark .navbar-nav .nav-link { color: rgb(250, 158, 125); }
+.jhun{border-radius: 50%;}
+.carousel-caption { top:75%;}
+.media-body h5 { color: rgb(177, 100, 100) }
+.media i { color: gray;}
+.contact-text{ padding: 200px 10px;}
+.bg-gray { background: url(../img/laptop2.jpg)no-repeat center center;
+    background-attachment: fixed; background-size: cover;}
+
+.panel-body{ color: rgb(255, 213, 179)}
+
+.code:hover { color: orangered; -moz-transition: all 1s ease-in; -webkit-transition: all 1s ease-in; -o-transition: all 1s ease-in; 
+    transition: all 1s ease-in; }
+    .database:hover { color: orangered; -moz-transition: all 1s ease-in; -webkit-transition: all 1s ease-in; -o-transition: all 1s ease-in; 
+        transition: all 1s ease-in; }    
+        .desktop:hover { color: orangered; -moz-transition: all 1s ease-in; -webkit-transition: all 1s ease-in; -o-transition: all 1s ease-in; 
+            transition: all 1s ease-in; }
+            .android:hover { color: orangered; -moz-transition: all 1s ease-in; -webkit-transition: all 1s ease-in; -o-transition: all 1s ease-in; 
+                transition: all 1s ease-in; }
+                .chrome:hover { color: orangered; -moz-transition: all 1s ease-in; -webkit-transition: all 1s ease-in; -o-transition: all 1s ease-in; 
+                    transition: all 1s ease-in; }
+
+
+
+.html:hover { color: orangered; -moz-transition: all 1s ease-in; -webkit-transition: all 1s ease-in; -o-transition: all 1s ease-in; 
+    transition: all 1s ease-in; }
+.contact{background: url(../img/hack.jpg) no-repeat center center;
+    background-attachment: fixed;}
+.jumbotron{ background-image: url(../img/qwe.jpg); background-attachment: fixed;}
+.rounded { border-radius: 50rem!important;}
+.perso { color: orangered; font-weight: 700;}
+.info { color: rgb(219, 166, 141); font-size: 150%;}
+.img-fluid { height: auto;}
+#game { border-radius: 50%; border: 2px solid rgb(190, 186, 186);}
+#about { color: orangered;}
+.orange { color: orangered;}
+.orange-line { background-color: gray;}
+.lead{ color: white;}
+.name { color: white;}
+#educ{ color: rgb(255, 129, 75);}
+#work { color: rgb(255, 129, 75);}
+a { color: rgb(88, 216, 233);}
+.mt-5, .my-5 {
+    margin-top: 11rem!important;
+}
+
+
+
+
